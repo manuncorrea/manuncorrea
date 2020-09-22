@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 ### Emanuele Correa 👋 
 
-Apaixonada pelo desenvolvimento web, formada em Ciências da Computação. Atualmente trabalho como freelancer e busco aprimorar meus conhecimentos, para poder me tornar uma especialista na área.
+Apaixonada pelo desenvolvimento web, atualmente trabalho como freelancer e busco aprimorar meus conhecimentos, para poder me tornar uma especialista na área.
+
+- 🔭 No momento estou estudando: ReactJS React Native, NodeJS e TypeScript
+- 🌱 Formada em Ciências da Computação
 
 
 ### Midias Sociais:  
