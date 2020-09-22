@@ -1,4 +1,24 @@
-### Hi there 👋
+### Emanuele Correa 👋
+
+
+ Apaixonada pelo desenvolvimento web, formada em Ciências da Computação. Atualmente trabalho como freelancer e busco aprimorar meus conhecimentos, para poder me
+
+
+### Midias Sociais:  
+
+<a target="_blank" href="https://www.linkedin.com/in/emanuele-correa-0372b2117/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5531998724272">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+
+<a target="_blank" href="manuncorrea@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
+
 
 <!--
 **manuncorrea/manuncorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
