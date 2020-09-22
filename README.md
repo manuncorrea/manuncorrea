@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-### Emanuele Correa 👋
+### Emanuele Correa 👋 
+
+Apaixonada pelo desenvolvimento web, formada em Ciências da Computação. Atualmente trabalho como freelancer e busco aprimorar meus conhecimentos, para poder me tornar uma especialista na área.
 
 
 ### Midias Sociais:  
