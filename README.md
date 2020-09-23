@@ -25,11 +25,11 @@ Apaixonada pelo desenvolvimento web, atualmente trabalho como freelancer e busco
 - 🔭 No momento estou estudando: ReactJS React Native, NodeJS e TypeScript
 - 🌱 Formada em Ciências da Computação
 
-<!--
+
 ### Midias Sociais:  
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/manuncorrea)](https://twitter.com/manuncorrea) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/emanuele-correa-0372b2117/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuncorrea@gmail.com)](mailto:manuncorrea@gmail.com) -->
+[![Twitter Badge](https://img.shields.io/badge/-@manuncorrea-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/manuncorrea)](https://twitter.com/manuncorrea) 
+[![Linkedin Badge](https://img.shields.io/badge/-Emanuele%20Correa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuele-correa-0372b2117/)](https://www.linkedin.com/in/emanuele-correa-0372b2117/) 
+[![Gmail Badge](https://img.shields.io/badge/-manuncorrea@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuncorrea@gmail.com)](mailto:manuncorrea@gmail.com) 
 
 
