@@ -28,8 +28,11 @@ Apaixonada pelo desenvolvimento web, atualmente trabalho como freelancer e busco
 
 ### Midias Sociais:  
 
-[![Twitter Badge](https://img.shields.io/badge/-@manuncorrea-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/manuncorrea)](https://twitter.com/manuncorrea) 
-[![Linkedin Badge](https://img.shields.io/badge/-Emanuele%20Correa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuele-correa-0372b2117/)](https://www.linkedin.com/in/emanuele-correa-0372b2117/) 
-[![Gmail Badge](https://img.shields.io/badge/-manuncorrea@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuncorrea@gmail.com)](mailto:manuncorrea@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuele-correa-0372b2117/)](https://www.linkedin.com/in/emanuele-correa-0372b2117/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuncorrea@gmail.com)](mailto:manuncorrea@gmail.com)
+
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531998724272&text=Olá!)](https://api.whatsapp.com/send?phone=5531998724272&text=Olá!)
+
 
 
