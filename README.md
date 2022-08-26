@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **NÃO ESPERE FICAR BOM PARA COMEÇAR, O APRENDIZADO VEM NO PROCESSO**
 
-- 🚀No momento estou estudando: ReactJS React Native, NodeJS e TypeScript
+- 🚀Conhencimento em: TypeScript, ReactJS, Styled-Component, Sass, NodeJS, Docker,MongoDB
 - 👩🏻‍💻 Formada em Ciências da Computação
 
 
