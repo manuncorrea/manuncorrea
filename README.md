@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 **NÃO ESPERE FICAR BOM PARA COMEÇAR, O APRENDIZADO VEM NO PROCESSO**
 
 - 👩🏻‍💻 Formada em Ciências da Computação
-- 🔭 Hoje trabalho como dev front-end...
-- 🌱 Estudando Angular e Swift ...
+- 🔭 Senior Frontend Developer
+
 
 
 <div>
